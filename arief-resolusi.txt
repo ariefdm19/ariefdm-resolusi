@@ -1,0 +1,4 @@
+Resolusi
+- Belajar Memahami Framework Laravel Versi 8
+- Belajar Memahami Java
+- Membuat  Project dari Framework laravel 8
