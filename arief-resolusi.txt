@@ -1,5 +1,7 @@
 Resolusi
 - Belajar Memahami Framework Laravel Versi 8
+- Belajar CodeIgniter 4
 - Belajar Memahami Java
 - Membuat  Project dari Framework laravel 8
 - Selalu update artikel di www.19adm.com
+- Lulus Skripsi dengan lancar
